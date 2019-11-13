@@ -1,0 +1,11 @@
+C:\Users\aar0116\source\repos\CustomerTaskTLG\bin\Debug\netstandard2.0\CustomerTaskTLG.deps.json
+C:\Users\aar0116\source\repos\CustomerTaskTLG\bin\Debug\netstandard2.0\CustomerTaskTLG.dll
+C:\Users\aar0116\source\repos\CustomerTaskTLG\bin\Debug\netstandard2.0\A1AR.SVC.Worker.Lib.dll
+C:\Users\aar0116\source\repos\CustomerTaskTLG\bin\Debug\netstandard2.0\A1AR.SVC.Worker.Lib.pdb
+C:\Users\aar0116\source\repos\CustomerTaskTLG\obj\Debug\netstandard2.0\CustomerTaskTLG.AssemblyInfoInputs.cache
+C:\Users\aar0116\source\repos\CustomerTaskTLG\obj\Debug\netstandard2.0\CustomerTaskTLG.AssemblyInfo.cs
+C:\Users\aar0116\source\repos\CustomerTaskTLG\obj\Debug\netstandard2.0\CustomerTaskTLG.csproj.CopyComplete
+C:\Users\aar0116\source\repos\CustomerTaskTLG\obj\Debug\netstandard2.0\CustomerTaskTLG.csprojAssemblyReference.cache
+C:\Users\aar0116\source\repos\CustomerTaskTLG\bin\Debug\netstandard2.0\CustomerTaskTLG.pdb
+C:\Users\aar0116\source\repos\CustomerTaskTLG\obj\Debug\netstandard2.0\CustomerTaskTLG.dll
+C:\Users\aar0116\source\repos\CustomerTaskTLG\obj\Debug\netstandard2.0\CustomerTaskTLG.pdb

@@ -1,0 +1,5 @@
+C:\Users\aar0116\source\repos\VendorTaskTLG\bin\Debug\netstandard2.0\VendorTaskTLG.deps.json
+C:\Users\aar0116\source\repos\VendorTaskTLG\bin\Debug\netstandard2.0\VendorTaskTLG.dll
+C:\Users\aar0116\source\repos\VendorTaskTLG\obj\Debug\netstandard2.0\VendorTaskTLG.csprojAssemblyReference.cache
+C:\Users\aar0116\source\repos\VendorTaskTLG\obj\Debug\netstandard2.0\VendorTaskTLG.AssemblyInfoInputs.cache
+C:\Users\aar0116\source\repos\VendorTaskTLG\obj\Debug\netstandard2.0\VendorTaskTLG.AssemblyInfo.cs
