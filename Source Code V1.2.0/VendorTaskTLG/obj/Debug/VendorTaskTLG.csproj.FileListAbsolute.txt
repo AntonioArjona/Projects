@@ -1,0 +1,7 @@
+C:\App\Arribatec\ATE\Plugins\VendorTaskTLG\VendorTaskTLG.dll
+C:\App\Arribatec\ATE\Plugins\VendorTaskTLG\VendorTaskTLG.pdb
+C:\Users\aar0116\source\repos\A1AR.Cust.TLG.CustVendTasks\VendorTaskTLG\obj\Debug\VendorTaskTLG.AssemblyInfoInputs.cache
+C:\Users\aar0116\source\repos\A1AR.Cust.TLG.CustVendTasks\VendorTaskTLG\obj\Debug\VendorTaskTLG.AssemblyInfo.cs
+C:\Users\aar0116\source\repos\A1AR.Cust.TLG.CustVendTasks\VendorTaskTLG\obj\Debug\VendorTaskTLG.csproj.CopyComplete
+C:\Users\aar0116\source\repos\A1AR.Cust.TLG.CustVendTasks\VendorTaskTLG\obj\Debug\VendorTaskTLG.dll
+C:\Users\aar0116\source\repos\A1AR.Cust.TLG.CustVendTasks\VendorTaskTLG\obj\Debug\VendorTaskTLG.pdb

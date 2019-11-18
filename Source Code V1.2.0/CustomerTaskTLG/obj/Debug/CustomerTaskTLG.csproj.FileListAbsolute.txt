@@ -1,0 +1,8 @@
+C:\App\Arribatec\ATE\Plugins\CustomerTaskTLG\CustomerTaskTLG.dll
+C:\App\Arribatec\ATE\Plugins\CustomerTaskTLG\CustomerTaskTLG.pdb
+C:\Users\aar0116\source\repos\A1AR.Cust.TLG.CustVendTasks\CustomerTaskTLG\obj\Debug\CustomerTaskTLG.AssemblyInfoInputs.cache
+C:\Users\aar0116\source\repos\A1AR.Cust.TLG.CustVendTasks\CustomerTaskTLG\obj\Debug\CustomerTaskTLG.AssemblyInfo.cs
+C:\Users\aar0116\source\repos\A1AR.Cust.TLG.CustVendTasks\CustomerTaskTLG\obj\Debug\CustomerTaskTLG.csproj.CopyComplete
+C:\Users\aar0116\source\repos\A1AR.Cust.TLG.CustVendTasks\CustomerTaskTLG\obj\Debug\CustomerTaskTLG.dll
+C:\Users\aar0116\source\repos\A1AR.Cust.TLG.CustVendTasks\CustomerTaskTLG\obj\Debug\CustomerTaskTLG.pdb
+C:\Users\aar0116\source\repos\A1AR.Cust.TLG.CustVendTasks\CustomerTaskTLG\obj\Debug\CustomerTaskTLG.csprojAssemblyReference.cache
